@@ -8,7 +8,7 @@ public class notaMaior {
             Scanner cx=new Scanner(System.in);
 
 
-            System.out.println("Digite o valor de n1: ");
+            System.out.println("Digite o valor de n1 : ");
             n1 = cx.nextInt();
             System.out.println("Digite o valor de n2: ");
             n2 = cx.nextInt();
